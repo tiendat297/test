@@ -479,8 +479,12 @@ p h3 h2 {
     font-weight: 400;
 }
 
+.contact {
+    float: left;
+}
+
 .mail {
-    margin-left: 100px;
+    text-align: center;
 }
 
 .mail p {
@@ -729,7 +733,15 @@ li {
     list-style: square;
 }
 
-.column_side {
+.column_footer1 {
+    width: 25%;
+}
+
+.column_footer2 {
+    width: 50%;
+}
+
+.column_footer3 {
     width: 25%;
 }
 
